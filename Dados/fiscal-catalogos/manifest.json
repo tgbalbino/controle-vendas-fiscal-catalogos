@@ -1,5 +1,5 @@
 {
-  "versaoManifesto": "2026.11.24.3",
+  "versaoManifesto": "2026.11.24.4",
   "ambiente": "HOMOLOGACAO",
   "observacao": "Catálogos versionados publicados no repositório para atualização dinâmica. NCM obtido da API Classif/Siscomex; CFOP baseado na tabela do Portal Nacional da NF-e publicada em 04/09/2026. Unidades tributáveis são códigos usuais editáveis do cliente.",
   "catalogos": [
@@ -17,15 +17,15 @@
     },
     {
       "tipo": "CST",
-      "versao": "2025.01",
-      "url": "https://raw.githubusercontent.com/tgbalbino/controle-vendas-fiscal-catalogos/main/Dados/fiscal-catalogos/CST-2025.01.json",
-      "sha256": "725e6679c970ff8f702de29943b07ddae1ee37d3c145549f95d603ba58ad4873"
+      "versao": "2026.11.24.1",
+      "url": "https://raw.githubusercontent.com/tgbalbino/controle-vendas-fiscal-catalogos/main/Dados/fiscal-catalogos/CST-2026.11.24.1.json",
+      "sha256": "ce71a77b8b15a4131cb26fdd9e7b2811300f2fd55e7e4af9502bc5b011e511fe"
     },
     {
       "tipo": "CSOSN",
-      "versao": "2010.02",
-      "url": "https://raw.githubusercontent.com/tgbalbino/controle-vendas-fiscal-catalogos/main/Dados/fiscal-catalogos/CSOSN-2010.02.json",
-      "sha256": "72be6a5b2ced5acaf00c0a63b31383d6365d9afc2f2d592ebebba5d8fe3ab204"
+      "versao": "2026.11.24.1",
+      "url": "https://raw.githubusercontent.com/tgbalbino/controle-vendas-fiscal-catalogos/main/Dados/fiscal-catalogos/CSOSN-2026.11.24.1.json",
+      "sha256": "b356e52a4f407b6f80815bd9c610fdcaba37fd7fa7988f56932dd52bcba31a90"
     },
     {
       "tipo": "UNIDADE_TRIBUTAVEL",

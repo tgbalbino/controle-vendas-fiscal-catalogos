@@ -24,6 +24,10 @@ publicada em 30/10/2026. Traz os 104 códigos com aplicação marcada para NF-e
 ou NFC-e e conserva a descrição e as datas de vigência da tabela de origem.
 O produto exibe código e descrição no combo, mas grava apenas o código.
 
+Os pacotes `CST-2026.11.24.1.json` e `CSOSN-2026.11.24.1.json` usam a Tabela B
+do MOC 7.00 da NF-e/NFC-e: 11 códigos CST ICMS e 10 CSOSN. O catálogo de CST
+representa o domínio do campo CST ICMS, não códigos de IPI, PIS ou COFINS.
+
 `UNIDADE_TRIBUTAVEL` é uma lista inicial de códigos usuais, mantida pelo ERP e
 editável pelo cliente; não é uma tabela oficial completa da SEFAZ. A unidade é
 um código informado em `uTrib`. O fator é a conversão numérica entre unidade
