@@ -1,0 +1,14 @@
+{
+  "tipo":"CST",
+  "versao":"2025.01",
+  "fonteUrl":"https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL",
+  "hashSha256":"fonte-oficial-sped",
+  "itens":[
+    ["00","Tributada integralmente","2025-01-01",""],
+    ["20","Com redução de base de cálculo","2025-01-01",""],
+    ["40","Isenta","2025-01-01",""],
+    ["41","Não tributada","2025-01-01",""],
+    ["60","ICMS cobrado anteriormente por substituição tributária","2025-01-01",""],
+    ["90","Outras","2025-01-01",""]
+  ]
+}
