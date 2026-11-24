@@ -1,5 +1,5 @@
 {
-  "versaoManifesto": "2026.11.24.2",
+  "versaoManifesto": "2026.11.24.3",
   "ambiente": "HOMOLOGACAO",
   "observacao": "Catálogos versionados publicados no repositório para atualização dinâmica. NCM obtido da API Classif/Siscomex; CFOP baseado na tabela do Portal Nacional da NF-e publicada em 04/09/2026. Unidades tributáveis são códigos usuais editáveis do cliente.",
   "catalogos": [
@@ -32,6 +32,12 @@
       "versao": "1.0",
       "url": "https://raw.githubusercontent.com/tgbalbino/controle-vendas-fiscal-catalogos/main/Dados/fiscal-catalogos/UNIDADE_TRIBUTAVEL-1.0.json",
       "sha256": "fd9c38b742baaf24c891afa00cae23590c18132d95572f6e161ff9ba6d039dbb"
+    },
+    {
+      "tipo": "CCLASS_TRIB",
+      "versao": "2026.10.30.1",
+      "url": "https://raw.githubusercontent.com/tgbalbino/controle-vendas-fiscal-catalogos/main/Dados/fiscal-catalogos/CCLASS_TRIB-2026.10.30.1.json",
+      "sha256": "a4bc6ac940afc4134c3e597eb9d9ba7fd8449770765d37d6715194a2da144ac4"
     }
   ]
 }
